@@ -1,0 +1,14 @@
+{
+  "name": "momentjs",
+  "version": "1.0.0",
+  "description": "Prueba de fecha y algoritmo de edad",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Galeano",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
